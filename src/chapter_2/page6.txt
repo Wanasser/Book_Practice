@@ -1,3 +1,5 @@
 We are writing a story about a boy
 
 it is nice
+
+editor:yeah java is cool
